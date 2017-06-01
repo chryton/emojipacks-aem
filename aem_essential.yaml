@@ -1,0 +1,162 @@
+title: aem_essential
+emojis:
+  - name: aliens
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/aliens.png
+  - name: allthethings
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/allthethings.jpg
+  - name: amazon
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/amazon.png
+  - name: ambulance
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/ambulance.gif
+  - name: archer
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/archer.png
+  - name: asdf
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/asdf.gif
+  - name: att
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/att.jpg
+  - name: autobots
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/autobots.jpg
+  - name: bacon
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/bacon.png
+  - name: biebs
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/biebs.png
+  - name: billnye
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/billnye.gif
+  - name: bitbucket
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/bitbucket.png
+  - name: blue_jackets
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/blue_jackets.png
+  - name: bmo
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/bmo.gif
+  - name: bone_broth
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/bone_broth.jpg
+  - name: carlton
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/carlton.gif
+  - name: cat
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/cat.gif
+  - name: cereal
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/cereal.png
+  - name: challenge_accepted
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/challenge_accepted.jpg
+  - name: coin
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/coin.gif
+  - name: construction
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/construction.gif
+  - name: cylon
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/cylon.gif
+  - name: dalek
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/dalek.png
+  - name: dawg
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/dawg.jpg
+  - name: deal_with_it_parrot
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/deal_with_it_parrot.gif
+  - name: decepticons
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/decepticons.jpg
+  - name: derp
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/derp.png
+  - name: digdug
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/digdug.png
+  - name: doge
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/doge.gif
+  - name: dumpster_fire
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/dumpster_fire.png
+  - name: epic_win
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/epic_win.png
+  - name: eyetwitch
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/eyetwitch.gif
+  - name: facepalm
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/facepalm.png
+  - name: fail
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/fail.png
+  - name: fatstacks
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/fatstacks.jpg
+  - name: like
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/fb-like.gif
+  - name: fiesta_party_parrot
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/fiesta_party_parrot.gif
+  - name: finn
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/finn.gif
+  - name: fist_bump
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/fist_bump.gif
+  - name: fistbump
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/fistbump.gif
+  - name: groot
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/groot.gif
+  - name: hammer_time
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/hammer_time.gif
+  - name: hypnotoad
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/hypnotoad.gif
+  - name: i_like_turtles
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/i_like_turtles.png
+  - name: i_see_what_you_did_there
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/i_see_what_you_did_there.png
+  - name: iliketrains
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/iliketrains.gif
+  - name: indeed
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/indeed.png
+  - name: indians
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/indians.jpg
+  - name: its_a_trap
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/its_a_trap.png
+  - name: its_fine
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/its_fine.png
+  - name: jazzhands
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/jazzhands.gif
+  - name: just_doit
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/just_doit.gif
+  - name: kiddingme
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/kiddingme.png
+  - name: magic
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/magic.gif
+  - name: mario_luigi_dance
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/mario_luigi_dance.gif
+  - name: mind_blown
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/mind_blown.gif
+  - name: mystery_block
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/mystery_block.gif
+  - name: n64
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/n64.gif
+  - name: netscape
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/netscape.gif
+  - name: not_bad
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/not_bad.jpg
+  - name: nyan_tail
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/nyan_tail.gif
+  - name: nyancat_full
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/nyancat_full.gif
+  - name: nyancat
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/nyancat.gif
+  - name: one_does_not_simply
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/one_does_not_simply.jpg
+  - name: party_parrot
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/party_parrot.gif
+  - name: pirates
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/pirates.jpg
+  - name: pokemon
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/pokemon.png
+  - name: question
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/question.gif
+  - name: ready_to_strike
+    aliases:
+      - readytostrike
+      - ontheprowl
+      - on_the_prowl
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/ready_to_strike.png
+  - name: sass
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/sass.png
+  - name: shuffle_parrot
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/shuffle_parrot.gif
+  - name: shuffle_party_parrot
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/shuffle_party_parrot.gif
+  - name: sonic_bored
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/sonic_bored.gif
+  - name: spinner
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/spinner.gif
+  - name: takemymoney
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/takemymoney.png
+  - name: twc
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/twc.jpg
+  - name: whoa_guys
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/whoa_guys.png
+  - name: zoidberg
+    src: https://raw.githubusercontent.com/chryton/emojipacks/blob/master/misc_essential/zoidberg.png
