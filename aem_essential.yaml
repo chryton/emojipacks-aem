@@ -84,6 +84,8 @@ emojis:
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/groot.gif
   - name: hammer_time
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/hammer_time.gif
+  - name: headdesk
+    src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/headdesk.gif
   - name: hypnotoad
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/hypnotoad.gif
   - name: i_like_turtles
@@ -146,6 +148,8 @@ emojis:
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/sass.png
   - name: shuffle_parrot
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/shuffle_parrot.gif
+  - name: skeptical_fry
+    src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/skeptical_fry.jpg
   - name: shuffle_party_parrot
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/shuffle_party_parrot.gif
   - name: sonic_bored
@@ -156,7 +160,13 @@ emojis:
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/takemymoney.png
   - name: twc
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/twc.jpg
+  - name: whoa
+    - aliases:
+      - keanu
+    src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/whoa.jpg
   - name: whoa_guys
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/whoa_guys.png
+  - name: yaoming
+    src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/yao_ming.png
   - name: zoidberg
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/zoidberg.png
