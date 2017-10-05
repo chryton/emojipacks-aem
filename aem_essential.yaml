@@ -158,6 +158,10 @@ emojis:
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/spinner.gif
   - name: takemymoney
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/takemymoney.png
+  - name: trollface
+    aliases:
+      - troll
+    src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/trollface.png
   - name: twc
     src: https://raw.githubusercontent.com/chryton/emojipacks-aem/master/misc_essential/twc.jpg
   - name: whoa
